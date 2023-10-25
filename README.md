@@ -43,3 +43,5 @@ All configurations are made in config.json:
 - `send_recieve_interval`: The time interval (in seconds) between re-checking emails.
 
 NOTE: Only PDF attachments are printed right now.
+
+https://www.howtogeek.com/169679/how-to-add-a-printer-to-your-raspberry-pi-or-other-linux-computer/
